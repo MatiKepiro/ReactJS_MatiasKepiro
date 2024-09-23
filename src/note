@@ -1,0 +1,6 @@
+        // todo componente recibe un objeto llamado prop
+        // style se usa para estilar alguna etiqueta. Ej. marginTop: 2
+        // para crear algun elemento, React usa por predeterminado el "on". Ej. onClick
+        // un estado o state es un valor. Si ese valor es modificado, se hace un re-render del componente. Si el componente tiene hijos, tambien se las hace un re-render.
+        // los hooks son funciones especiales que nos ayudan con comportamientos y eventos que pasen dentro del componente. hooks --> useState. Los hooks se declaran al principio del componente.
+        
